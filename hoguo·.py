@@ -28,3 +28,4 @@ huoguo8 = huoguo6.head(5)
 huoguo9 = huoguo1["性价比评分"].idxmax()
 
 print(f"成都性价比最高的餐厅是{huoguo9}")
+print(f"成都氛围评价前五的餐厅{huoguo8}")
